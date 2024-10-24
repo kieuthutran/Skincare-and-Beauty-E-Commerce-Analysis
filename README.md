@@ -34,7 +34,7 @@ The primary goals are to:
 2) Provide actionable insights that can drive strategic decision-making for the e-store's future growth.
 
 # **4. Design thinking**
-Step 1 - Empathize
+**Step 1 - Empathize**
 |5W1H | |
 |---|----------------|
 |Who will be viewing this Dashboard? | Sales team, Marketing Team|
@@ -52,23 +52,67 @@ Step 1 - Empathize
 |Seeing  | |
 |Saying and doing  | |
 |Gains  | |
+
+|Fact table | Dim table|
+|---|----------------|
 |  | |
 
+**Step 2 - Define POV**
+| | NORTHSTAR METRIC|
+|---|----------------|
+|What VALUE you want to measure?  | |
+|WHEN the value DELIVERY SUCCESS?  | |
+|Northstar Metric Name  | |
+|WHY do you choose this metric?  | |
+
+Dimension Group
+|Group 1 | Group 2 | Group 3 | Group 4|
+|---|----------------|-----|-----|
+| | | | |
+
+Define Point of View
+|View | Description | Why |
+|---|----------------|-----|
+| | | |
+| | | |
+| | | |
+| | | |
+
+**Step 3 - Ideate**
+
+Brainstorming
+|Idea Name | Layer 0 Dimension: Total Metrics | Layer 1 Dimension: Breakdown by 1 Dimension | Layer 2 Dimension: Breakdown by 2 Dimensions|
+|---|----------------|-----|-----|
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+
+Next, I proceeded with **Step 4 - Prototype** and Review multiple times and achieved the final result, which will be presented in the following section as a dashboard.
 # **5. Dashboard**
 
-<img src="">
+<img src="https://i.imgur.com/DAYlQdv.png">
 
 ***
 
-<img src="">
+<img src="https://i.imgur.com/Wnz9CFl.png">
 
 ***
 
-<img src="">
+<img src="https://i.imgur.com/pWUgr53.png">
 
 ***
 
-<img src="">
+<img src="https://i.imgur.com/jhtY7MF.png">
 
 # **6. Key Insights**
-<img src="">
+**Sales Trends by Market:** *North America* and *Europe* consistently outperformed other markets with growth across all product categories.
+
+**Most Profitable Segments:** *The corporate segment* was consistently the most profitable customer segment from 2020 to 2023.
+
+**Profit Distribution by Market:** North America, Europe, and Australia were the most profitable regions, with *North America* leading the way.
+
+**Best-selling products:** *Herbal Essences Bio*, a *body care* product, has been the top seller for four years, driving the highest profit margins in the industry.
+
+**Discount Strategy Review:** The discount strategy over the last few years appears to have *negatively impacted profits*, suggesting it may not have been effective. However, this is a simplistic analysis and there could be other factors at play. For a more comprehensive analysis, other factors such as sales volume, customer retention, and market conditions should also be considered.
+
