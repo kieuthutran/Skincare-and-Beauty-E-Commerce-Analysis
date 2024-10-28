@@ -83,10 +83,10 @@ Define Point of View
 Brainstorming
 |Idea Name | Layer 0 Dimension: Total Metrics | Layer 1 Dimension: Breakdown by 1 Dimension | Layer 2 Dimension: Breakdown by 2 Dimensions|
 |---|----------------|-----|-----|
-|Sales Overview | | | |
-|Market Analysis | | | |
-|Product Analysis | | | |
-|Customer Analysis | | | |
+|Sales Overview | Total revenue<br>Total profit<br>Total order<br>Total unit sold| % revenue by market<br>% revenue by segment<br>% profit by category<br>Revenue and Profit trend by year| |
+|Market Analysis | Slicer: year, country, segment, product| % profit by region| % revenue by region and year<br>Top products in each market|
+|Product Analysis | Slicer: year, country, segment, product| % revenue by category<br>Order times<br>Highest ordered product| % profit by segment and category<br>Profit and Discount Relation|
+|Customer Analysis | Total customer<br>Total order<br>Avg revenue by transaction<br>Avg profit by transaction| Count customer by region<br>Profit margin by segment| Top customers by country|
 
 Next, I proceeded with **Step 4 - Prototype** and Review multiple times and achieved the final result, which will be presented in the following section as a dashboard.
 # **5. Dashboard**
