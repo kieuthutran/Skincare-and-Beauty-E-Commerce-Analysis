@@ -91,28 +91,48 @@ Brainstorming
 Next, I proceeded with **Step 4 - Prototype** and Review multiple times and achieved the final result, which will be presented in the following section as a dashboard.
 # **5. Dashboard**
 
+**VIEW 1**
 <img src="https://i.imgur.com/DAYlQdv.png">
 
+* Overview: While sales and units sold _increased_, profits _decreased_ year-by-year. This could be due to various factors like increased costs, lower selling prices, or a change in product mix.
+* The _corporate segment_ was consistently the most profitable customer segment from 2020 to 2023.
+* The _Europe_ market has been the most profitable from 2020 to 2023.
+* _Body care_ has generated the highest profits, followed by make-up and face care.
+
 ***
 
+**VIEW 2**
 <img src="https://i.imgur.com/Wnz9CFl.png">
 
+* _North America_, _Europe_, and _Australia_ were the most profitable regions, with North America leading the way.
+* _North America_ consistently outperformed other markets with growth across all product categories.
+* The top-selling products vary by region, highlighting the importance of tailoring product offerings to local preferences.
+
 ***
 
+**VIEW 3**
 <img src="https://i.imgur.com/pWUgr53.png">
 
+* _Herbal Essences Bio_ is the best-selling product, with the highest sales and profit. It has also shown significant year-over-year (YoY) sales growth.
+* The _body care_ category is the most profitable category for all customer segments. It generates the highest total sales and profit.
+* The _face care_ category has the highest profit margin, indicating strong pricing and cost control.
+* Orders are highest on _Fridays_ and _Saturdays_, indicating potential opportunities for targeted marketing campaigns and promotions.
+* The discount strategy implemented in the past few years has had a mixed impact on profit. Some discounts have increased sales but _negatively_ impacted profit margins.
+
 ***
 
+**VIEW 4**
 <img src="https://i.imgur.com/jhtY7MF.png">
 
-# **6. Key Insights**
-**Sales Trends by Market:** *North America* and *Europe* consistently outperformed other markets with growth across all product categories.
+* The average sales value per transaction is $181, and the average profit per transaction is $40. This indicates a _reasonable_ profit margin.
+* The _corporate segment_ generates the highest total sales and profit, indicating a strong focus on corporate clients.
+* The majority of customers (nearly 70%) have made only _one_ purchase. A smaller number of customers have made multiple purchases, with the highest frequency being two. This suggests a decreasing trend in customer retention or repeat purchases.
 
-**Most Profitable Segments:** *The corporate segment* was consistently the most profitable customer segment from 2020 to 2023.
+# **6. Recommendations**
 
-**Profit Distribution by Market:** North America, Europe, and Australia were the most profitable regions, with *North America* leading the way.
+Conduct a detailed analysis of the factors contributing to the decline in profitability.
 
-**Best-selling products:** *Herbal Essences Bio*, a *body care* product, has been the top seller for four years, driving the highest profit margins in the industry.
+Explore new market opportunities, particularly in Asia Pacific.
 
-**Discount Strategy Review:** The discount strategy over the last few years appears to have *negatively impacted profits*, suggesting it may not have been effective. However, this is a simplistic analysis and there could be other factors at play. For a more comprehensive analysis, other factors such as sales volume, customer retention, and market conditions should also be considered.
+**Customer Retention**: Efforts should be made to convert one-time buyers into repeat customers. This could involve loyalty programs, personalized marketing, or improved customer service.
 
