@@ -130,9 +130,11 @@ Next, I proceeded with **Step 4 - Prototype** and Review multiple times and achi
 
 # **6. Recommendations**
 
-Conduct a detailed analysis of the factors contributing to the decline in profitability.
+**Improve Profitability**: Conduct a detailed analysis of the factors contributing to the decline in profitability, which may involve reducing costs, increasing prices, or changing the product mix.
 
-Explore new market opportunities, particularly in Asia Pacific.
+**Market Penetration**: Explore new market opportunities, particularly in Asia Pacific.
+
+**Product Line Optimization**: Optimize product line by discontinuing low-performing products and introducing new products that align with market trends.
 
 **Customer Retention**: Efforts should be made to convert one-time buyers into repeat customers. This could involve loyalty programs, personalized marketing, or improved customer service.
 
